@@ -1,0 +1,1 @@
+Esta es la práctica entregada de NLP de Keepcoding, la he separado en cuatro notebooks de jupyter. He repetido varias veces una parte del ejercicio porque se necesitaba para continuar, aunque me imagino que descargando en cache y volviendo a cargar podría haber conseguido lo mismo. Espero que responda a lo solicitado de la práctica. 
